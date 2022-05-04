@@ -91,3 +91,12 @@ button{
 strong{
     color: #007AFF;
 }
+
+@media screen and (min-width:1282px) {
+    div{
+        margin-left: 500px;
+    }
+    .Sign-Up-Paragrafh{
+        margin: 25px 75px auto;
+    }
+}
