@@ -6,8 +6,8 @@
 <p align ="center">#TECNOLOGIAS USADAS:</p>
 <br>
 <br>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 
  <strong>#DESCRIÇÃO</strong> 
  
@@ -26,7 +26,8 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Jerson"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Jerson"/>
+       </a><br>
         <sub>
           <b>Jerson</b>
         </sub>
